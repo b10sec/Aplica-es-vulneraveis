@@ -1,2 +1,2 @@
-# Aplica-es-vulneraveis
+# Aplicacoes-vulneraveis
 Exemplos de aplicações vulneráveis
